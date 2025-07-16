@@ -18,8 +18,4 @@ And then we can make another. Then we'll try reverting both of these, then bring
 
 ------
 
-seems I reverted the merges in the wrong order.
-
-------
-
-so lets make another 2
+seems I reverted the merges in the wrong order
