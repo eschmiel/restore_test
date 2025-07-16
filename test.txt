@@ -9,16 +9,3 @@ Now we try making some more changes
 and then we'll make a new branch holding these changes.
 
 seems like no commit happened for the merge.
-
-Seems we need to do it with the --no-ff flag to get the merge commit to revert.
-
-So lets try again
-
---------------
-
-
-wowz
-
-. Now lets try making some more commits.
-
-And then we'll place these in a branch and try to go back.
