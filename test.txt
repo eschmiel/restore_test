@@ -19,4 +19,6 @@ So lets try again
 
 wowz
 
-. Now lets try making some more commits
+. Now lets try making some more commits.
+
+And then we'll place these in a branch and try to go back.
