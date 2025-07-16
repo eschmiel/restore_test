@@ -9,5 +9,3 @@ Now we try making some more changes
 and then we'll make a new branch holding these changes.
 
 seems like no commit happened for the merge.
-
-so we'll try again with some changes.
