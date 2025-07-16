@@ -12,6 +12,4 @@ seems like no commit happened for the merge.
 
 ------
 
-ok I think we merge in this change.
-
-And then we can make another. Then we'll try reverting both of these, then bringing them back.
+ok I think we merge in this change
