@@ -10,4 +10,11 @@ and then we'll make a new branch holding these changes.
 
 seems like no commit happened for the merge.
 
-Seems we need to do it with the --no-ff flag to get the merge commit to revert
+Seems we need to do it with the --no-ff flag to get the merge commit to revert.
+
+So lets try again
+
+--------------
+
+
+wowz
